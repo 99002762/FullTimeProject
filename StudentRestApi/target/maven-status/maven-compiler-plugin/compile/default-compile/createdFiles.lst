@@ -1,0 +1,10 @@
+com\studentapp\model\Student.class
+com\studentapp\dao\StudentRepository.class
+com\studentapp\StudentRestApi.class
+com\studentapp\modelDto\StudentDto.class
+com\studentapp\serviceimpl\StudentServiceImpl.class
+com\studentapp\exceptions\GlobalExceptionHandler.class
+com\studentapp\controllers\StudentRequestController.class
+com\studentapp\service\StudentService.class
+com\studentapp\exceptions\APIErrors.class
+com\studentapp\exceptions\StudentNotFoundException.class
